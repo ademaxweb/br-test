@@ -1,0 +1,4179 @@
+{
+	"StandartLevel": [
+		{
+			"id": 1,
+			"name": "VIP GOLD НА 12Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 12
+		},
+		{
+			"id": 2,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 3,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 4,
+			"name": "Audi A4 НА 12Ч.",
+			"name_ios": "Aura 4 НА 12Ч.",
+			"typeId": 2,
+			"awardId": 507,
+			"count": 12
+		},
+		{
+			"id": 5,
+			"name": "X2 КУПОН НА 24Ч.",
+			"typeId": 18,
+			"awardId": 0,
+			"count": 24
+		},
+		{
+			"id": 6,
+			"name": "VIP SILVER НА 2Ч.",
+			"typeId": 19,
+			"awardId": 0,
+			"count": 2
+		},
+		{
+			"id": 7,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 8,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 9,
+			"name": "Сумка 'Champions race'",
+			"typeId": 5,
+			"awardId": 9799,
+			"count": 605
+		},
+		{
+			"id": 10,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 11,
+			"name": "VIP SILVER НА 2Ч.",
+			"typeId": 19,
+			"awardId": 0,
+			"count": 2
+		},
+		{
+			"id": 12,
+			"name": "ОБРАЗ Охотницы НА 6Ч.",
+			"typeId": 10,
+			"awardId": 11932,
+			"count": 6
+		},
+		{
+			"id": 13,
+			"name": "10 EXP",
+			"typeId": 0,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 14,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 15,
+			"name": "X2 КУПОН НА 24Ч.",
+			"typeId": 18,
+			"awardId": 0,
+			"count": 24
+		},
+		{
+			"id": 16,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 17,
+			"name": "VIP SILVER НА 2Ч.",
+			"typeId": 19,
+			"awardId": 0,
+			"count": 2
+		},
+		{
+			"id": 18,
+			"name": "ОБРАЗ Степаныча НА 6Ч.",
+			"typeId": 10,
+			"awardId": 11926,
+			"count": 6
+		},
+		{
+			"id": 19,
+			"name": "Ducati XDiavel S НА 12Ч.",
+			"name_ios": "Moto Diavel НА 12Ч.",
+			"typeId": 2,
+			"awardId": 463,
+			"count": 12
+		},
+		{
+			"id": 20,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 21,
+			"name": "VIP SILVER НА 2Ч.",
+			"typeId": 19,
+			"awardId": 0,
+			"count": 2
+		},
+		{
+			"id": 22,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 23,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 24,
+			"name": "10 EXP",
+			"typeId": 0,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 25,
+			"name": "X2 КУПОН НА 24Ч.",
+			"typeId": 18,
+			"awardId": 0,
+			"count": 24
+		},
+		{
+			"id": 26,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 27,
+			"name": "VIP SILVER НА 2Ч.",
+			"typeId": 19,
+			"awardId": 0,
+			"count": 2
+		},
+		{
+			"id": 28,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 29,
+			"name": "Сумка пилота",
+			"typeId": 5,
+			"awardId": 9801,
+			"count": 607
+		},
+		{
+			"id": 30,
+			"name": "ОБРАЗ Хищницы НА 6Ч.",
+			"typeId": 10,
+			"awardId": 11928,
+			"count": 6
+		},
+		{
+			"id": 31,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 32,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 33,
+			"name": "Acura TSX НА 12Ч.",
+			"name_ios": "TSX НА 12Ч.",
+			"typeId": 2,
+			"awardId": 445,
+			"count": 12
+		},
+		{
+			"id": 34,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 35,
+			"name": "X2 КУПОН НА 24Ч.",
+			"typeId": 18,
+			"awardId": 0,
+			"count": 24
+		},
+		{
+			"id": 36,
+			"name": "10 EXP",
+			"typeId": 0,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 37,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 38,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 39,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 40,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 41,
+			"name": "Образ Повелительница дорог",
+			"typeId": 7,
+			"awardId": 11942,
+			"count": 0
+		},
+		{
+			"id": 42,
+			"name": "ОБРАЗ Саныча НА 6Ч.",
+			"typeId": 10,
+			"awardId": 11929,
+			"count": 6
+		},
+		{
+			"id": 43,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 44,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 45,
+			"name": "X2 КУПОН НА 24Ч.",
+			"typeId": 18,
+			"awardId": 0,
+			"count": 24
+		},
+		{
+			"id": 46,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 47,
+			"name": "Очки 'Pink Racer'",
+			"typeId": 5,
+			"awardId": 9803,
+			"count": 609
+		},
+		{
+			"id": 48,
+			"name": "Infiniti FX50S НА 12Ч.",
+			"name_ios": "Trinity XF50 НА 12Ч.",
+			"typeId": 2,
+			"awardId": 2625,
+			"count": 12
+		},
+		{
+			"id": 49,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 50,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 51,
+			"name": "10 EXP",
+			"typeId": 0,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 52,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 53,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 54,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 55,
+			"name": "X2 КУПОН НА 24Ч.",
+			"typeId": 18,
+			"awardId": 0,
+			"count": 24
+		},
+		{
+			"id": 56,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 57,
+			"name": "ОБРАЗ Николаича НА 6Ч.",
+			"typeId": 10,
+			"awardId": 11930,
+			"count": 6
+		},
+		{
+			"id": 58,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 59,
+			"name": "10 EXP",
+			"typeId": 0,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 60,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 61,
+			"name": "Рюкзак 'Off-road'",
+			"typeId": 5,
+			"awardId": 9796,
+			"count": 602
+		},
+		{
+			"id": 62,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 63,
+			"name": "Xpeng P7 НА 12Ч.",
+			"name_ios": "China Car P7 НА 12Ч.",
+			"typeId": 2,
+			"awardId": 2621,
+			"count": 12
+		},
+		{
+			"id": 64,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 65,
+			"name": "X2 КУПОН НА 24Ч.",
+			"typeId": 18,
+			"awardId": 0,
+			"count": 24
+		},
+		{
+			"id": 66,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 67,
+			"name": "СЕРЕБРЯНЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 68,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		},
+		{
+			"id": 69,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 70,
+			"name": "10 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 10
+		},
+		{
+			"id": 71,
+			"name": "Розовый шлем пилота",
+			"typeId": 5,
+			"awardId": 9806,
+			"count": 612
+		},
+		{
+			"id": 72,
+			"name": "Образ Раскаленный асфальт",
+			"typeId": 7,
+			"awardId": 11936,
+			"count": 0
+		},
+		{
+			"id": 73,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 74,
+			"name": "Москвич 412 Rally",
+			"name_ios": "Москва-Ралли",
+			"typeId": 8,
+			"awardId": 2630,
+			"count": 0
+		},
+		{
+			"id": 75,
+			"name": "5000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 5000
+		}
+	],
+	"PremiumLevel": [
+		{
+			"id": 1,
+			"name": "50 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 50
+		},
+		{
+			"id": 2,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 3,
+			"name": "Образ Королева гонок",
+			"typeId": 7,
+			"awardId": 11938,
+			"count": 0
+		},
+		{
+			"id": 4,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 5,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 6,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 7,
+			"name": "Chevrolet Camaro НА 24Ч.",
+			"name_ios": "Comaric НА 24Ч.",
+			"typeId": 2,
+			"awardId": 543,
+			"count": 24
+		},
+		{
+			"id": 8,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 9,
+			"name": "Сумка гонщика",
+			"typeId": 5,
+			"awardId": 9797,
+			"count": 603
+		},
+		{
+			"id": 10,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 11,
+			"name": "Daewoo Matiz Rally",
+			"name_ios": "Sport Kapriz",
+			"typeId": 8,
+			"awardId": 545,
+			"count": 0
+		},
+		{
+			"id": 12,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 13,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 14,
+			"name": "Audi RS7 Sport НА 24Ч.",
+			"name_ios": "Aura Road 7 Sport НА 24Ч.",
+			"typeId": 2,
+			"awardId": 2545,
+			"count": 24
+		},
+		{
+			"id": 15,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 16,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 17,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 18,
+			"name": "Образ Ночной король",
+			"typeId": 7,
+			"awardId": 11941,
+			"count": 0
+		},
+		{
+			"id": 19,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 20,
+			"name": "VIP GOLD НА 2Ч.",
+			"typeId": 19,
+			"awardId": 1,
+			"count": 2
+		},
+		{
+			"id": 21,
+			"name": "Шлем пилота",
+			"typeId": 5,
+			"awardId": 9804,
+			"count": 610
+		},
+		{
+			"id": 22,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 23,
+			"name": "Mercedes-Benz GT-R  НА 24Ч.",
+			"name_ios": "M GT-R НА 24Ч.",
+			"typeId": 2,
+			"awardId": 429,
+			"count": 24
+		},
+		{
+			"id": 24,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 25,
+			"name": "БРОНЗОВЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 26,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 27,
+			"name": "Subaru Impreza WRX Rally",
+			"name_ios": "Syberia Ibizza Rally",
+			"typeId": 8,
+			"awardId": 2631,
+			"count": 0
+		},
+		{
+			"id": 28,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 29,
+			"name": "Lamborghini Urus НА 24Ч.",
+			"name_ios": "Lumus НА 24Ч.",
+			"typeId": 2,
+			"awardId": 2551,
+			"count": 24
+		},
+		{
+			"id": 30,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 31,
+			"name": "СЕРЕБРЯНЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 32,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 33,
+			"name": "Наушники 'Racer connect'",
+			"typeId": 5,
+			"awardId": 9794,
+			"count": 600
+		},
+		{
+			"id": 34,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 35,
+			"name": "Образ Мастер дрифта",
+			"typeId": 7,
+			"awardId": 11939,
+			"count": 0
+		},
+		{
+			"id": 36,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 37,
+			"name": "Mercedes-Benz G63 НА 24Ч.",
+			"name_ios": "Gelik 63 НА 24Ч.",
+			"typeId": 2,
+			"awardId": 2573,
+			"count": 24
+		},
+		{
+			"id": 38,
+			"name": "СЕРЕБРЯНЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 39,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 40,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 41,
+			"name": "Очки 'Black cobra'",
+			"typeId": 5,
+			"awardId": 9805,
+			"count": 611
+		},
+		{
+			"id": 42,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 43,
+			"name": "Ford GT Super Sport",
+			"name_ios": "Sport GT",
+			"typeId": 8,
+			"awardId": 2633,
+			"count": 0
+		},
+		{
+			"id": 44,
+			"name": "Ferrari 488 Pista НА 24Ч.",
+			"name_ios": "488 Pizza НА 24Ч.",
+			"typeId": 2,
+			"awardId": 2619,
+			"count": 24
+		},
+		{
+			"id": 45,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 46,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 47,
+			"name": "СЕРЕБРЯНЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 48,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 49,
+			"name": "Сумка 'Cosmic racer'",
+			"typeId": 5,
+			"awardId": 9798,
+			"count": 604
+		},
+		{
+			"id": 50,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 51,
+			"name": "Aurus Senat НА 24Ч.",
+			"name_ios": "Senator НА 24Ч.",
+			"typeId": 2,
+			"awardId": 2597,
+			"count": 24
+		},
+		{
+			"id": 52,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 53,
+			"name": "СЕРЕБРЯНЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 54,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 55,
+			"name": "Рюкзак 'Orange space'",
+			"typeId": 5,
+			"awardId": 9800,
+			"count": 606
+		},
+		{
+			"id": 56,
+			"name": "Образ Скоростная леди",
+			"typeId": 7,
+			"awardId": 11937,
+			"count": 0
+		},
+		{
+			"id": 57,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 58,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 59,
+			"name": "Bentley Mulliner НА 24Ч.",
+			"name_ios": "Millioner НА 24Ч.",
+			"typeId": 2,
+			"awardId": 2600,
+			"count": 24
+		},
+		{
+			"id": 60,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 61,
+			"name": "СЕРЕБРЯНЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 62,
+			"name": "Шлем .PNG",
+			"typeId": 5,
+			"awardId": 9795,
+			"count": 601
+		},
+		{
+			"id": 63,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 64,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 65,
+			"name": "СЕРЕБРЯНЫЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 66,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 67,
+			"name": "Bugatti Divo НА 24Ч.",
+			"name_ios": "Divero НА 24Ч.",
+			"typeId": 2,
+			"awardId": 2570,
+			"count": 24
+		},
+		{
+			"id": 68,
+			"name": "Кубок победителя",
+			"typeId": 5,
+			"awardId": 9802,
+			"count": 608
+		},
+		{
+			"id": 69,
+			"name": "ЗОЛОТОЙ КЕЙС",
+			"typeId": 6,
+			"awardId": 2,
+			"count": 1
+		},
+		{
+			"id": 70,
+			"name": "20000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 20000
+		},
+		{
+			"id": 71,
+			"name": "VIP PLATINUM НА 2Ч.",
+			"typeId": 19,
+			"awardId": 2,
+			"count": 2
+		},
+		{
+			"id": 72,
+			"name": "20 BC",
+			"typeId": 3,
+			"awardId": 0,
+			"count": 20
+		},
+		{
+			"id": 73,
+			"name": "Образ Чемпион Ле-Мана",
+			"typeId": 7,
+			"awardId": 11940,
+			"count": 0
+		},
+		{
+			"id": 74,
+			"name": "Brawn GP F1",
+			"name_ios": "Black R1",
+			"typeId": 8,
+			"awardId": 602,
+			"count": 0
+		},
+		{
+			"id": 75,
+			"name": "10000 РУБ.",
+			"typeId": 1,
+			"awardId": 0,
+			"count": 10000
+		}
+	],
+	"MarathonLevel": [
+		{
+			"id": 1,
+			"name": "5000 РУБЛЕЙ",
+			"typeId": 1,
+			"awardId": 400,
+			"count": 5000
+		},
+		{
+			"id": 2,
+			"name": "2 EXP",
+			"typeId": 0,
+			"awardId": 400,
+			"count": 2
+		},
+		{
+			"id": 3,
+			"name": "VIP SILVER 3Д.",
+			"typeId": 4,
+			"awardId": 0,
+			"count": 3
+		},
+		{
+			"id": 4,
+			"name": "20 BLACK COINS",
+			"typeId": 3,
+			"awardId": 400,
+			"count": 20
+		},
+		{
+			"id": 5,
+			"name": "10000 РУБЛЕЙ",
+			"typeId": 1,
+			"awardId": 400,
+			"count": 10000
+		},
+		{
+			"id": 6,
+			"name": "4 EXP",
+			"typeId": 0,
+			"awardId": 400,
+			"count": 4
+		},
+		{
+			"id": 7,
+			"name": "VIP GOLD 1Д.",
+			"typeId": 4,
+			"awardId": 1,
+			"count": 1
+		},
+		{
+			"id": 8,
+			"name": "БРОНЗОВАЯ РУЛЕТКА",
+			"typeId": 6,
+			"awardId": 0,
+			"count": 1
+		},
+		{
+			"id": 9,
+			"name": "20000 РУБЛЕЙ",
+			"typeId": 1,
+			"awardId": 400,
+			"count": 20000
+		},
+		{
+			"id": 10,
+			"name": "6 EXP",
+			"typeId": 0,
+			"awardId": 400,
+			"count": 6
+		},
+		{
+			"id": 11,
+			"name": "VIP GOLD 3Д.",
+			"typeId": 4,
+			"awardId": 1,
+			"count": 3
+		},
+		{
+			"id": 12,
+			"name": "Lamborghini НА 6Ч.",
+			"name_ios": "Uragan НА 6Ч.",
+			"typeId": 2,
+			"awardId": 2549,
+			"count": 6
+		},
+		{
+			"id": 13,
+			"name": "8 EXP",
+			"typeId": 0,
+			"awardId": 400,
+			"count": 8
+		},
+		{
+			"id": 14,
+			"name": "Серебряная рулетка",
+			"typeId": 6,
+			"awardId": 1,
+			"count": 1
+		}
+	],
+	"LevelPrices": 150,
+	"Tasks": [
+		{
+			"id": 0,
+			"type": "Общие",
+			"text": "Знакомство с администрацией",
+			"description": "Посетите здание правительства (/gps > Важные места > Правительство).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 1,
+			"type": "Общие",
+			"text": "Здоровье превыше всего!",
+			"description": "Посетите городскую больницу (/gps > Государственные организации > Городская больница).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 2,
+			"type": "Общие",
+			"text": "Без пяти минут банкир",
+			"description": "Посетите ближайшее банковское отделение (/gps > Банки).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 3,
+			"type": "Общие",
+			"text": "Любитель покушать!",
+			"description": "Найдите ближайшую забегаловку (/gps > Ближайшие места > Найдите ближайшую закусочную).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 4,
+			"type": "Общие",
+			"text": "Вся наша жизнь — игра",
+			"description": "Найдите ближайшее казино и Посетите его.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 5,
+			"type": "Общие",
+			"text": "Люби и саночки возить",
+			"description": "Заправить свой автомобиль на АЗС (/gps > Ближайшие места > Найдите ближайшую АЗС).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 1,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 6,
+			"type": "Общие",
+			"text": "Король тюнинга",
+			"description": "Сделайте тюнинг своего автомобиля в СТО (/gps > [13] СТО и тюнинг-ателье > [2] Стайлинг Центр).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 1,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 7,
+			"type": "Общие",
+			"text": "Заядлый автолюбитель",
+			"description": "Проехать 50 километров на своём автомобиле.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 1,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 8,
+			"type": "Общие",
+			"text": "Подарок невесте",
+			"description": "Купите букет цветов (/gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 9,
+			"type": "Общие",
+			"text": "Всегда под рукой!",
+			"description": "Купите два ремонтных набора (/gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+			"count": 2,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 10,
+			"type": "Общие",
+			"text": "Может повезёт!",
+			"description": "Купите 3 лотерейных билета (/gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+			"count": 3,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 11,
+			"type": "Общие",
+			"text": "Хозяин огорода",
+			"description": "Купите лопату (/gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 12,
+			"type": "Общие",
+			"text": "Настоящий рыбак",
+			"description": "Купите снасти для рыбалки (/gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 13,
+			"type": "Общие",
+			"text": "Агент под прикрытием",
+			"description": "Купите маску (/gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 14,
+			"type": "Общие",
+			"text": "Окажи мед. помощь!",
+			"description": "Купите 4 аптечки (/gps > Ближайшие места > Найдите ближайший магазин 24/7).",
+			"count": 4,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 15,
+			"type": "Фракционное",
+			"text": "Внученька",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 16,
+			"type": "Фракционное",
+			"text": "Баба Нюра",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 17,
+			"type": "Фракционное",
+			"text": "АгитВперед",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 18,
+			"type": "Фракционное",
+			"text": "Лучший лицензер",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 19,
+			"type": "Фракционное",
+			"text": "Друзей в беде не бросают",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 20,
+			"type": "Фракционное",
+			"text": "Министр Ф.",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 21,
+			"type": "Фракционное",
+			"text": "Ликвидация",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 2,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 22,
+			"type": "Фракционное",
+			"text": "Верный защитник",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 2,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 23,
+			"type": "Фракционное",
+			"text": "Армейский барон",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 2,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 24,
+			"type": "Фракционное",
+			"text": "Барыга",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 2,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 25,
+			"type": "Фракционное",
+			"text": "Король медицинских карт",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 3,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 26,
+			"type": "Фракционное",
+			"text": "Лучший доктор",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 3,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 27,
+			"type": "Фракционное",
+			"text": "Спасение раненного",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 3,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 28,
+			"type": "Фракционное",
+			"text": "Призыв",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 3,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 29,
+			"type": "Фракционное",
+			"text": "Чистые улицы",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 30,
+			"type": "Фракционное",
+			"text": "Вместе – веселей!",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 31,
+			"type": "Фракционное",
+			"text": "Чего нет, того и не было",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 32,
+			"type": "Фракционное",
+			"text": "По черному!",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 33,
+			"type": "Фракционное",
+			"text": "Аннулируйте 5 штрафов",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 34,
+			"type": "Фракционное",
+			"text": "Лучший редактор",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 4,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 35,
+			"type": "Фракционное",
+			"text": "Агитатор",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 4,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 36,
+			"type": "Фракционное",
+			"text": "Потерянная SD-карта",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 4,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 37,
+			"type": "Фракционное",
+			"text": "Чистые улицы",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 38,
+			"type": "Фракционное",
+			"text": "Вместе – веселей!",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 39,
+			"type": "Фракционное",
+			"text": "Ликвидатор",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 40,
+			"type": "Фракционное",
+			"text": "Под прикрытием",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 41,
+			"type": "Фракционное",
+			"text": "Обнулим!",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 42,
+			"type": "Фракционное",
+			"text": "Чистые улицы",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 43,
+			"type": "Фракционное",
+			"text": "Вместе – веселей!",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 44,
+			"type": "Фракционное",
+			"text": "Ликвидатор",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 45,
+			"type": "Фракционное",
+			"text": "Под прикрытием",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 46,
+			"type": "Фракционное",
+			"text": "Обнулим!",
+			"description": "Узнайте условия и выполните задание организации взяв его у NPC.",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 47,
+			"type": "Рабочие",
+			"text": "Орлиный глаз",
+			"description": "Подстрелите животное на охоте.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 48,
+			"type": "Общие",
+			"text": "Оторвемся по полной",
+			"description": "Посетите ночной клуб.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 49,
+			"type": "Общие",
+			"text": "Меломан",
+			"description": "Включите музыку на магнитофоне.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 50,
+			"type": "Рабочие",
+			"text": "Кладоискатель",
+			"description": "Найдите 5 предметов при помощи металлоискателя.",
+			"count": 1,
+			"subtype": 4,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 51,
+			"type": "Общие",
+			"text": "Новые возможности",
+			"description": "Получить новый игровой уровень.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 52,
+			"type": "Общие",
+			"text": "Оставайся с нами",
+			"description": "Отыграйте на сервере 1 час.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 53,
+			"type": "Общие",
+			"text": "Повелитель времени",
+			"description": "Отыграйте на сервере 4 часа.",
+			"count": 4,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 54,
+			"type": "Рабочие",
+			"text": "Рыбак",
+			"description": "Поймайте 15 кг любой рыбы на рыбалке.",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 55,
+			"type": "Рабочие",
+			"text": "Водитель-эксперт",
+			"description": "Проедьте 1 круг на работе автобусника.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 56,
+			"type": "Рабочие",
+			"text": "Зеленые яблоки",
+			"description": "Заработайте 5000 рублей на сборщике яблок.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 57,
+			"type": "Рабочие",
+			"text": "Парное молочко",
+			"description": "Заработайте 5000 рублей на дояре.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 58,
+			"type": "Рабочие",
+			"text": "Комбайнер",
+			"description": "Заработайте 5000 рублей на комбайнере.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 59,
+			"type": "Рабочие",
+			"text": "Пчелы и мёд",
+			"description": "Заработайте 5000 рублей на пчеловоде.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 60,
+			"type": "Рабочие",
+			"text": "Шахтер",
+			"description": "Добудьте 150 килограмм руды на шахте.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 61,
+			"type": "Рабочие",
+			"text": "Сборщик",
+			"description": "Соберите 15 деталей на заводе.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 62,
+			"type": "Общие",
+			"text": "На кубике - четыре",
+			"description": "Победите в игре Кости (казино).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 63,
+			"type": "Общие",
+			"text": "Двадцать одно",
+			"description": "Сыграть в блекджек (казино).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 64,
+			"type": "Общие",
+			"text": "Призрачный гонщик",
+			"description": "Участвуйте в гонках.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 65,
+			"type": "Общие",
+			"text": "Монстр-трак",
+			"description": "Участвуйте в дерби.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 66,
+			"type": "Общие",
+			"text": "Формула-1",
+			"description": "Победите в гонках.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 67,
+			"type": "Общие",
+			"text": "Каменный лоб",
+			"description": "Победите в дерби.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 68,
+			"type": "Общие",
+			"text": "Боеготов",
+			"description": "Купите оружие в магазине оружия.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 69,
+			"type": "Общие",
+			"text": "Дорога",
+			"description": "Возьмите 10 маляв у Иглы и раскиньте их по камерам заключенных.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 70,
+			"type": "Общие",
+			"text": "Шоушенк",
+			"description": "Совершите побег из тюрьмы.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 71,
+			"type": "Общие",
+			"text": "Шулер",
+			"description": "Выиграйте партию в карточную игру Дурак.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 72,
+			"type": "Общие",
+			"text": "Подогрев",
+			"description": "Передайте съедобный предмет другому заключенному.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 73,
+			"type": "Общие",
+			"text": "Бунтарь",
+			"description": "Попадите в карцер.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 74,
+			"type": "Общие",
+			"text": "Калич",
+			"description": "Попадите в лазарет.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 75,
+			"type": "Общие",
+			"text": "Работяга",
+			"description": "Заработайте 5000 рублей на работе в цеху.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 76,
+			"type": "Общие",
+			"text": "Козёл",
+			"description": "Получите поощрение от сотрудника ФСИН.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 77,
+			"type": "Общие",
+			"text": "Отрицала",
+			"description": "Получение выговор от сотрудника ФСИН.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 78,
+			"type": "Общие",
+			"text": "Свободен как птица",
+			"description": "Отбыть срок в ФСИН.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 4,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 79,
+			"type": "Фракционное",
+			"text": "Патруль",
+			"description": "Патрулируйте территорию в течении 30 минут.",
+			"count": 1,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 80,
+			"type": "Фракционное",
+			"text": "Караул",
+			"description": "Займите указанную вышку на 30 минут.",
+			"count": 1,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 81,
+			"type": "Фракционное",
+			"text": "Санитар",
+			"description": "Вылечите 5 заключенных.",
+			"count": 1,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 82,
+			"type": "Фракционное",
+			"text": "По следам",
+			"description": "Предотвратите побег, поймав или убив беглеца.",
+			"count": 1,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 83,
+			"type": "Фракционное",
+			"text": "Сыщик",
+			"description": "Вскройте 3 тайника.",
+			"count": 3,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 84,
+			"type": "Фракционное",
+			"text": "Всегда на чеку",
+			"description": "Обыщите 5 заключенных.",
+			"count": 1,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 85,
+			"type": "Фракционное",
+			"text": "Конвоир",
+			"description": "Перевезите заключенных из КПЗ в тюрьму.",
+			"count": 1,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 86,
+			"type": "Фракционное",
+			"text": "Хранитель порядка",
+			"description": "Выдайте поощрение или выговор 5 заключенным.",
+			"count": 1,
+			"subtype": 11,
+			"typeint": 2,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 87,
+			"type": "Общие",
+			"text": "Милый Джейсон",
+			"description": "Примите участие в игре 'Мертвая рука', будучи убийцей.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 88,
+			"type": "Общие",
+			"text": "Кровавый убийца",
+			"description": "Выиграйте матч в игре 'Мертвая рука', будучи убийцей.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 89,
+			"type": "Общие",
+			"text": "Беги, беги!",
+			"description": "Примите участие в игре 'Мертвая рука', будучи выжившим.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 90,
+			"type": "Общие",
+			"text": "Спасись, если сможешь",
+			"description": "Выиграйте матч в игре 'Мертвая рука', будучи выжившим.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 91,
+			"type": "Общие",
+			"text": "Гаечка, где ключик?",
+			"description": "Почините 3 двигателя, будучи выжившим в игре 'Мертвая рука'.",
+			"count": 3,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 92,
+			"type": "Общие",
+			"text": "Почувствуй ярость",
+			"description": "Оглушите выжившего в игре 'Мертвая рука' (Задание для Убийцы).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 93,
+			"type": "Общие",
+			"text": "Что в черном ящике?",
+			"description": "Обыщите сундук в игре 'Мертвая рука' (Задание для выжившего).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 94,
+			"type": "Общие",
+			"text": "Ай, болит!",
+			"description": "Окажите выжившему помощь в игре 'Мертвая рука'.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 95,
+			"type": "Общие",
+			"text": "Зажечь костры!",
+			"description": "Примите участие в игре 'Охота на ведьм'.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 96,
+			"type": "Общие",
+			"text": "Гласность народу",
+			"description": "Подайте объявление в СМИ (/ad).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 5,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 97,
+			"type": "Общие",
+			"text": "Куда без номеров?",
+			"description": "Прокрутите номера в ГИБДД (/gps - Государственные организации - ГИБДД).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 98,
+			"type": "Общие",
+			"text": "В ритме большого города",
+			"description": "Закажите такси любого класса.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 99,
+			"type": "Общие",
+			"text": "Благотворительность",
+			"description": "Пожертвуйте средства в банке (/gps - Банки).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 100,
+			"type": "Общие",
+			"text": "Нужно с чего то начинать",
+			"description": "Посетите автосалон низкого класса (/gps - Автосалоны - Автосалон низкого класса).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 101,
+			"type": "Общие",
+			"text": "Поднимаемся с колен",
+			"description": "Посетите автосалон среднего класса (/gps - Автосалоны - Автосалон среднего класса).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 102,
+			"type": "Общие",
+			"text": "Почувствуй рев мотора",
+			"description": "Посетите автосалон высокого класса (/gps - Автосалоны - Автосалон высокого класса).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 103,
+			"type": "Общие",
+			"text": "Железный конь",
+			"description": "Посетите мотосалон (/gps - Автосалоны - Мотосалон).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 104,
+			"type": "Общие",
+			"text": "Краш тест",
+			"description": "Возьмите машину на тест драйв в любом автосалоне.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 105,
+			"type": "Общие",
+			"text": "Мечтать не вредно",
+			"description": "Посетите авторынок любого класса (/gps - Автосалоны - Автосалон поддержанных авто).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 106,
+			"type": "Общие",
+			"text": "На черный день",
+			"description": "Купите канистру с бензином в любой АЗС (/gps - Ближайшие места - Найдите ближайшую АЗС).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 107,
+			"type": "Общие",
+			"text": "Обменяемся?",
+			"description": "Совершите любой обмен с другим игроком (/inv - Обмен).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 108,
+			"type": "Общие",
+			"text": "С ветерком!",
+			"description": "Арендуйте скутер",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 109,
+			"type": "Общие",
+			"text": "Ставки",
+			"description": "Выставите лот на аукцион (/gps - Важные места - Аукцион).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 110,
+			"type": "Общие",
+			"text": "Полный бак",
+			"description": "Заправьте личный транспорт (/gps - Ближайшие места - Найдите ближайшую АЗС).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 111,
+			"type": "Общие",
+			"text": "Здоров как бык",
+			"description": "Вылечитесь в больнице (/gps - Государственные организации - Больница).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 112,
+			"type": "Общие",
+			"text": "Мастер на все руки",
+			"description": "Почините 3 транспорта будучи автомехаником (/gps - Государственные организации - Правительство).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 113,
+			"type": "Общие",
+			"text": "Вызови механика",
+			"description": "Воспользуйтесь услугами автомеханика и почините свой транспорт.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 114,
+			"type": "Общие",
+			"text": "Аккумулятор на исходе",
+			"description": "Заряди аккумулятор своего транспорта используя бустеры ( /gps - Ближайшие места - Найдите ближайший магазин 24/7).",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 115,
+			"type": "Общие",
+			"text": "Пообщаемся?",
+			"description": "Отправьте 3 SMS-сообщения любому игроку (/sms [номер телефона]).",
+			"count": 3,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 116,
+			"type": "Общие",
+			"text": "Строитель",
+			"description": "Перенесите 8 мешков с цементом на любой стройке.",
+			"count": 8,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 117,
+			"type": "Общие",
+			"text": "Электрик",
+			"description": "Установите проводку на любой стройке 3 раза.",
+			"count": 3,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 118,
+			"type": "Общие",
+			"text": "Трубы установлены!",
+			"description": "Установите 4 трубных канала на любой стройке.",
+			"count": 4,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 119,
+			"type": "Общие",
+			"text": "Ты в танцах",
+			"description": "Выиграйте танец баттл в клубе.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 120,
+			"type": "Общие",
+			"text": "Аир-дроп",
+			"description": "Загрузите 10 ящиков в транспортное средство во время битв за контейнер.",
+			"count": 10,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 121,
+			"type": "Общие",
+			"text": "Покушать бы",
+			"description": "Купите что нибудь перекусить в любой лавке.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 122,
+			"type": "Общие",
+			"text": "Моя остановка",
+			"description": "Сядьте в автобус и доедьте до ближайшей остановки.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 123,
+			"type": "Общие",
+			"text": "Свежий",
+			"description": "Смените свой внешний образ.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 124,
+			"type": "Общие",
+			"text": "Модный",
+			"description": "Наденьте любой аксессуар.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 125,
+			"type": "Рабочие",
+			"text": "Повелитель огня",
+			"description": "Затушить 30 очагов возгорания 1 или 2 уровня в МЧС.",
+			"count": 30,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 126,
+			"type": "Рабочие",
+			"text": "Властелин пожаров",
+			"description": "Затушить 15 очагов возгорания 3 уровня в МЧС.",
+			"count": 15,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 127,
+			"type": "Рабочие",
+			"text": "Мастер вызовов",
+			"description": "Выполнить 5 заказов любого уровня в МЧС.",
+			"count": 5,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 128,
+			"type": "Рабочие",
+			"text": "Подручный",
+			"description": "Найдите напарника и успешно выполнить задание (/mesinv - Пригласить напарника) в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 129,
+			"type": "Рабочие",
+			"text": "Командная работа",
+			"description": "Успешно завершить 3 вызова с напарником в МЧС.",
+			"count": 3,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 130,
+			"type": "Рабочие",
+			"text": "Без воды не справиться ",
+			"description": "Заполнить пожарный транспорт водой на 100% в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 131,
+			"type": "Рабочие",
+			"text": "Смотри в оба",
+			"description": "Выполнить 10 дополнительных заданий в МЧС.",
+			"count": 10,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 132,
+			"type": "Рабочие",
+			"text": "Лучший в команде",
+			"description": "Получить больше очков рабочего опыта чем напарник в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 133,
+			"type": "Рабочие",
+			"text": "Новичок тоже не плох ",
+			"description": "Успешно завершить заказ 1 уровня в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 134,
+			"type": "Рабочие",
+			"text": "Работает любитель",
+			"description": "Успешно завершить заказ 2 уровня в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 135,
+			"type": "Рабочие",
+			"text": "Работает профессионал",
+			"description": "Успешно завершить заказ 3 уровня в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 136,
+			"type": "Рабочие",
+			"text": "Спасатель",
+			"description": "Эвакуировать пострадавшего в безопасную зону в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 137,
+			"type": "Рабочие",
+			"text": "В душе электрик",
+			"description": "Обезвредить электрический щиток в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 138,
+			"type": "Рабочие",
+			"text": "Предотвратитель хлопка",
+			"description": "Эвакуировать газовый балон в безопасную зону в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 139,
+			"type": "Рабочие",
+			"text": "Нет огню!",
+			"description": "Затушить горючие вещества в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 140,
+			"type": "Рабочие",
+			"text": "Как новенький",
+			"description": "Восстановить пожарный костюм на складе МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 141,
+			"type": "Рабочие",
+			"text": "В строю!",
+			"description": "Начать рабочий день в МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 142,
+			"type": "Рабочие",
+			"text": "Полный инвентарь",
+			"description": "Взять весь инвентарь со склада МЧС.",
+			"count": 1,
+			"subtype": 7,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 143,
+			"type": "Общие",
+			"text": "Дружелюбный",
+			"description": "Поздаровайтесь с 3 игроками.",
+			"count": 3,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 144,
+			"type": "Общие",
+			"text": "Первая помощь",
+			"description": "Реанимируйте раненного при помощи Адреналина",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 145,
+			"type": "Общие",
+			"text": "Мой автомобиль в тонусе",
+			"description": "Используйте бустер на свой личный автомобиль",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 146,
+			"type": "Общие",
+			"text": "Полный бак",
+			"description": "Заправьте автомобиль при помощи канистры с бензином",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 147,
+			"type": "Общие",
+			"text": "Я здоров",
+			"description": "Используйте аптечку",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 148,
+			"type": "Общие",
+			"text": "Романтик",
+			"description": "Подарите букет цветов любому персонажу противоположного пола",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 149,
+			"type": "Общие",
+			"text": "Я здоров",
+			"description": "Купите аптечку в магазине 24/7",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 150,
+			"type": "Общие",
+			"text": "Шумахер",
+			"description": "Разогнаться до скорости 150 км/ч на любом автомобиле находясь за рулем",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 1,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 151,
+			"type": "Общие",
+			"text": "Железный конь",
+			"description": "Набрать 100 км/ч на любом мотоцикле",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 1,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 152,
+			"type": "Общие",
+			"text": "Инкогнито",
+			"description": "Наденьте маску на лицо",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 153,
+			"type": "Общие",
+			"text": "Шулер",
+			"description": "Поиграть в карточную игру Дурак",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 154,
+			"type": "Общие",
+			"text": "Я на связи",
+			"description": "Пополните счёт телефона",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 155,
+			"type": "Общие",
+			"text": "Исследователь",
+			"description": "Посетите Арзамас",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 156,
+			"type": "Общие",
+			"text": "Исследователь",
+			"description": "Посетите Рублевку",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 157,
+			"type": "Общие",
+			"text": "Исследователь",
+			"description": "Посетите Лыткарино",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 158,
+			"type": "Общие",
+			"text": "Исследователь",
+			"description": "Посетите Южный",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 159,
+			"type": "Общие",
+			"text": "Ежедневные покупки",
+			"description": "Посетите магазин 24/7",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 160,
+			"type": "Общие",
+			"text": "Ежедневные покупки",
+			"description": "Потратьте 1000 рублей игровой вылюты на покупки. Задание не распространяется на передачу денег через /pay и трейд режим",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 161,
+			"type": "Общие",
+			"text": "Ежедневные покупки",
+			"description": "Потратье 5000 рублей игровой валюты на покупки. Задание не распространяется на передачу денег через /pay и трейд режим",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 162,
+			"type": "Общие",
+			"text": "Ежедневные покупки",
+			"description": "Потратьте 15000 рублей игровой вылюты на покупки. Задание не распространяется на передачу денег через /pay и трейд режим",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 163,
+			"type": "Общие",
+			"text": "Ежедневные покупки",
+			"description": "Потратьте 30000 рублей игровой валюты на покупки. Задание не распространяется на передачу денег через /pay и трейд режим",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 164,
+			"type": "Общие",
+			"text": "Испытай удачу",
+			"description": "Открыть бронзовый кейс",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 165,
+			"type": "Общие",
+			"text": "Испытай удачу",
+			"description": "Открыть СЕРЕБРЯНЫЙ кейс",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 166,
+			"type": "Общие",
+			"text": "Испытай удачу",
+			"description": "Открыть золотой кейс",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 167,
+			"type": "Общие",
+			"text": "Испытай удачу",
+			"description": "Открыть авто кейс",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 168,
+			"type": "Общие",
+			"text": "Испытай удачу",
+			"description": "Посетите офис транспортной компании",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 169,
+			"type": "Общие",
+			"text": "Заводские будни",
+			"description": "Начните рабочий день на заводе",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 170,
+			"type": "Общие",
+			"text": "Заводские будни",
+			"description": "Соберите 20 деталей на заводе",
+			"count": 20,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 171,
+			"type": "Общие",
+			"text": "По маршруту",
+			"description": "Начните рабочий день водителем автобуса",
+			"count": 1,
+			"subtype": 2,
+			"typeint": 7,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 172,
+			"type": "Общие",
+			"text": "По маршруту",
+			"description": "Перевезите 5 пассажиров работая водителем автобуса",
+			"count": 5,
+			"subtype": 2,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 173,
+			"type": "Общие",
+			"text": "По маршруту",
+			"description": "Перевезите 10 пассажиров работая водителем автобуса",
+			"count": 10,
+			"subtype": 2,
+			"typeint": 7,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 174,
+			"type": "Общие",
+			"text": "По маршруту",
+			"description": "Почините рабочий автобус ремкомплектом или у механика, работая водителем автобуса",
+			"count": 1,
+			"subtype": 2,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 175,
+			"type": "Общие",
+			"text": "По маршруту",
+			"description": "Заправьте рабочий автобус работая водителем автобуса",
+			"count": 1,
+			"subtype": 2,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 176,
+			"type": "Общие",
+			"text": "В поисках клада",
+			"description": "Купите металлоискатель в 24/7",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 177,
+			"type": "Общие",
+			"text": "Это клад?",
+			"description": "Найдите первый предмет при помощи металлоискателя",
+			"count": 1,
+			"subtype": 4,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 178,
+			"type": "Общие",
+			"text": "Почти сапер",
+			"description": "Не допустите ни одной ошибки при поиске металлоискателем",
+			"count": 1,
+			"subtype": 4,
+			"typeint": 7,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 179,
+			"type": "Общие",
+			"text": "Дикий добытчик",
+			"description": "Подберите найденную шкуру на охоте",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 7,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 180,
+			"type": "Общие",
+			"text": "Меткий глаз",
+			"description": "Подстрелите 5 туш с животными на охоте",
+			"count": 5,
+			"subtype": 5,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 181,
+			"type": "Общие",
+			"text": "Меткий глаз",
+			"description": "Подстрелите 10 туш с животными на охоте",
+			"count": 10,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 182,
+			"type": "Общие",
+			"text": "Торговец шкур",
+			"description": "Продайте найденную на охоте шкуру",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 183,
+			"type": "Общие",
+			"text": "Меткий глаз",
+			"description": "Подстрелите 10 зайцев",
+			"count": 10,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 184,
+			"type": "Общие",
+			"text": "Меткий глаз",
+			"description": "Подстрелите 8 медведей",
+			"count": 8,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 185,
+			"type": "Общие",
+			"text": "Меткий глаз",
+			"description": "Подстрелите 6 уток",
+			"count": 6,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 186,
+			"type": "Общие",
+			"text": "Меткий глаз",
+			"description": "Подстрелите 5 оленей",
+			"count": 5,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 187,
+			"type": "Общие",
+			"text": "Охотник на шкур",
+			"description": "Подберите 10 шкур с зайца на охоте",
+			"count": 10,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 188,
+			"type": "Общие",
+			"text": "Охотник на шкур",
+			"description": "Подберите 8 шкур с медведя на охоте",
+			"count": 8,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 189,
+			"type": "Общие",
+			"text": "Охотник на шкур",
+			"description": "Подберите 6 шкур с уток на охоте",
+			"count": 6,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 190,
+			"type": "Общие",
+			"text": "Охотник на шкур",
+			"description": "Подберите 5 шкур с оленя на охоте",
+			"count": 5,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 191,
+			"type": "Общие",
+			"text": "Торговец шкур",
+			"description": "Продайте шкуру с зайца тоговцу на охоте",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 192,
+			"type": "Общие",
+			"text": "Торговец шкур",
+			"description": "Продайте шкуру с медведя торговцу на охоте",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 193,
+			"type": "Общие",
+			"text": "Торговец шкур",
+			"description": "Продайте шкуру утки торговцу на охоте",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 194,
+			"type": "Общие",
+			"text": "Торговец шкур",
+			"description": "Продайте шкуру оленя торговцу на охоте",
+			"count": 1,
+			"subtype": 5,
+			"typeint": 7,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 195,
+			"type": "Общие",
+			"text": "Хорошее место для ловли",
+			"description": "Доберитесь до ближайшего места рыбалки",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 196,
+			"type": "Общие",
+			"text": "Пора рыбачить",
+			"description": "Купите удочку в 24/7",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 197,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Корюшка' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 198,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Навага' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 199,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Сельдь' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 200,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Карп' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 201,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Окунь' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 202,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Тунец' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 203,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Камбала' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 204,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Кета' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 205,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Горбуша' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 206,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Красноперка' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 207,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Судак' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 208,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Щука' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 209,
+			"type": "Общие",
+			"text": "Рыбная цель",
+			"description": "Поймайте 15 кг рыбы 'Лещ' на рыбалке",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 210,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Корюшка' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 211,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Навага' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 212,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Сельдь' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 213,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Карп' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 214,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Окунь' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 215,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Тунец' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 216,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Камбала'  в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 217,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Кета' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 218,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Горбуша' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 219,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Красноперка' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 220,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Судак' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 221,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Щука' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 222,
+			"type": "Общие",
+			"text": "Золотой улов",
+			"description": "Продайте 15 кг пойманной рыбы на рыбалке 'Лещ' в закусочную",
+			"count": 15,
+			"subtype": 0,
+			"typeint": 0,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 223,
+			"type": "Общие",
+			"text": "Рыбное время",
+			"description": "Поймайте любую рыбу при помощи удочки",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 224,
+			"type": "Общие",
+			"text": "Рыбный бизнес",
+			"description": "Продайте любую рыбу при помощи удочки",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 225,
+			"type": "Общие",
+			"text": "Когда нибудь достроим",
+			"description": "Начните рабочий день разнорабочим",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 226,
+			"type": "Общие",
+			"text": "Когда нибудь достроим",
+			"description": "Начните рабочий день водителем экскаватора",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 227,
+			"type": "Общие",
+			"text": "Когда нибудь достроим",
+			"description": "Проложите успешно трубы на стройке",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 228,
+			"type": "Общие",
+			"text": "Когда нибудь достроим",
+			"description": "Перенесите 15 мешков на стройке",
+			"count": 15,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 229,
+			"type": "Общие",
+			"text": "Когда нибудь достроим",
+			"description": "Проведите успешно электричество на стройке",
+			"count": 1,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 230,
+			"type": "Общие",
+			"text": "Когда нибудь достроим",
+			"description": "Вынесите 5 мешков с мусором на стройке",
+			"count": 5,
+			"subtype": 6,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 231,
+			"type": "Общие",
+			"text": "Полная корзина яблок",
+			"description": "Работая сборщиком урожая: Соберите полную корзину и отнесите на склад.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 232,
+			"type": "Общие",
+			"text": "Сорвать все яблоки",
+			"description": "Соберите яблоки с одного из яблочных деревьев работая сборщиком урожая.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 233,
+			"type": "Общие",
+			"text": "Пчелиный король",
+			"description": "Арендовать улей работая пчеловодом на ферме.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 234,
+			"type": "Общие",
+			"text": "Пчелиный король",
+			"description": "Достать рамку с мёдом работая пчеловодом на ферме.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 235,
+			"type": "Общие",
+			"text": "Пчелиный король",
+			"description": "Положить пустую рамку в улей работая пчеловодом на ферме.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 236,
+			"type": "Общие",
+			"text": "Пчелиный король",
+			"description": "Отнести рамку с мёдом на склад работая пчеловодом на ферме.",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		},
+		{
+			"id": 237,
+			"type": "Рабочие",
+			"text": "Начало долгого пути",
+			"description": "Вступить в одну из транспортных компаний",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 238,
+			"type": "Рабочие",
+			"text": "Первый груз",
+			"description": "Взять заказ в транспортной компании",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 239,
+			"type": "Рабочие",
+			"text": "Выгодная сделка",
+			"description": "Доставить заказ для бизнеса работая в транспортной компании",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 240,
+			"type": "Рабочие",
+			"text": "Большой груз",
+			"description": "Доставить заказ на склад работая в транспортной компании",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 7,
+			"award": 3000,
+			"complexity": 1,
+			"taskStatus": 1
+		},
+		{
+			"id": 241,
+			"type": "Рабочие",
+			"text": "Ювелирная доставка",
+			"description": "Доставить груз не повредив транспорт работая в транспортной компании",
+			"count": 1,
+			"subtype": 1,
+			"typeint": 7,
+			"award": 5000,
+			"complexity": 2,
+			"taskStatus": 1
+		},
+		{
+			"id": 242,
+			"type": "Событие",
+			"text": "Цветочный рай",
+			"description": "Собрать 5 подснежников (/gps - Весеннее событие - Степаныч)",
+			"count": 5,
+			"subtype": 0,
+			"typeint": 6,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 243,
+			"type": "Событие",
+			"text": "Полные скворечники",
+			"description": "Заполнить 5 скворечников птичьим кормом (/gps - Весеннее событие - Степаныч)",
+			"count": 5,
+			"subtype": 1,
+			"typeint": 6,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 244,
+			"type": "Событие",
+			"text": "Заячьи бега",
+			"description": "Поймать 7 сбежавших зайцев (/gps - Весеннее событие - Степаныч)",
+			"count": 7,
+			"subtype": 2,
+			"typeint": 6,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 245,
+			"type": "Событие",
+			"text": "Весенние котики",
+			"description": "Покормить 5 уличных кошек (/gps - Весеннее событие - Степаныч)",
+			"count": 5,
+			"subtype": 3,
+			"typeint": 6,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 246,
+			"type": "Событие",
+			"text": "Флорист",
+			"description": "Полить 5 цветов (/gps - Весеннее событие - Степаныч)",
+			"count": 5,
+			"subtype": 4,
+			"typeint": 6,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 247,
+			"type": "Событие",
+			"text": "Пыльные ковры",
+			"description": "Выбить 3 ковра (/gps - Весеннее событие - Степаныч)",
+			"count": 3,
+			"subtype": 5,
+			"typeint": 6,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 248,
+			"type": "Событие",
+			"text": "Лесные ягоды",
+			"description": "Собрать 5 лесных ягод (/gps - Весеннее событие - Степаныч)",
+			"count": 5,
+			"subtype": 6,
+			"typeint": 6,
+			"award": -1,
+			"complexity": -1,
+			"taskStatus": 0
+		},
+		{
+			"id": 249,
+			"type": "Общие",
+			"text": "Стрит фуд",
+			"description": "Купите любую еду в киоске рядом с одним из вокзалов",
+			"count": 1,
+			"subtype": 0,
+			"typeint": 0,
+			"award": 2000,
+			"complexity": 0,
+			"taskStatus": 1
+		}
+	]
+}
